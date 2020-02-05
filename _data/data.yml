@@ -88,17 +88,16 @@ experiences:
           - Responsible for giving suggestion and implementing those one approved
           - Assisting team by providing technical assistance
           - Multi country implemetation for RTOB(Real time onboarding ) for instant approval of credit cards and personal loan for customers. India , Singapore and Malaysia has gone live and other country is in progress.  
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software engineer
+      time: 2012 - 2016
+      company: Cybage software pvt. ltd, Pune
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Handled Team size of 4 members.
+          - Responsible for site delivery.
+          - Integration of static HTML pages to dynamic Webpages using CMS.
+          - Integration of rich user jQuery Plugin.
+          - Responsible for the resolving Cross Browser integration issues.
+          - Responsible for resolving Clients issues & concerns with respect to the page performance.
 projects:
     title: Projects
     intro: >
