@@ -56,55 +56,33 @@ career-profile:
         Possess good analytical and software engineering skills and have proved equally successful in maintaining quality process requirements
         Quick Learner and Self Motivated with excellent analytical and communication and Interpersonal skills that are required to effectively work in the field of applications development and maintenance.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BE in Computer Science
+      university: Nagpur University
+      time: 2008 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        
+    - degree: Intermediate
+      university: CBSE
+      time: 2006 - 2008
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Application Development Specialist - Team Lead
+      time: 2017 - Present
+      company: Accenture solution pvt. ltd , Bengaluru
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        I was a key individual contributor and was leading the team for SCB (real time onboarding of customers) for Malaysia market. My roles and responsibilties was to interact with product owners and users on daily basis and discuss the requirement. I was working as a individual contributor in front end developement and also taking the responsibilitites for deliverables.  
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      time: 2016 - 2017
+      company: Accenture solution pvt. ltd , Bengaluru
+      details: |.
+          - Develop responsive reusable framework components.
+          - Aadhar integration to fetch the detais for existing customer to bank
+          - Technical lead to handle any technical issues 
+          - Responsible to interact with client directly for any issues or queries
+          - Responsible for giving suggestion and implementing those one approved
+          - Assisting team by providing technical assistance
+          - Multi country implemetation for RTOB(Real time onboarding ) for instant approval of credit cards and personal loan for customers. India , Singapore and Malaysia has gone live and other country is in progress.  
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
