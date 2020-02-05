@@ -75,7 +75,12 @@ experiences:
     - role: Senior Software Engineer
       time: 2016 - 2017
       company: Accenture solution pvt. ltd , Bengaluru
-      details: |.
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
           - Develop responsive reusable framework components.
           - Aadhar integration to fetch the detais for existing customer to bank
           - Technical lead to handle any technical issues 
