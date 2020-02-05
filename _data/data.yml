@@ -47,12 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        7+ years of experience as a full stack developer in technologies like JavaScript, TypeScript, Object Oriented JavaScript (OOJS) , Angular, AngularJS, Node.js, Express , Ember, Ajax, jQuery, HTML5, CSS3.
+        Hands on experience on responsive coding using Media Queries and handling templates using HandleBars, Underscore and EJS.
+        Worked on Web Sockets, Rest Services, HTML5 features like Geolocation, Web Storage etc.
+        6+ years of product development experience in Expedia and Standard Chartered Bank.
+        Good knowledge of data structures and algorithms.
+        Very good in transforming business requirements into technical specifications for successful development and deployment.
+        Possess good analytical and software engineering skills and have proved equally successful in maintaining quality process requirements
+        Quick Learner and Self Motivated with excellent analytical and communication and Interpersonal skills that are required to effectively work in the field of applications development and maintenance.
 education:
     - degree: MSc in Computer Science
       university: University of London
